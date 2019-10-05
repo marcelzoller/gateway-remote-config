@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE96C6A9",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.427472,
+    "ref_longitude": 9.636973,
+    "ref_altitude": 405,
+    "contact_email": "marcel@zoller.li",
+    "description": "IC880A Gateway"
+  }
+}
